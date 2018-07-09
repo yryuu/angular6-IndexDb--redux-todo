@@ -16,15 +16,6 @@
       "es2017",
       "dom"
     ],
-    "paths": {
-      "backend": [
-        "dist/backend",
-        "dist/backend"
-      ],
-      "backend/*": [
-        "dist/backend/*",
-        "dist/backend/*"
-      ]
-    }
+    "paths": {}
   }
 }
